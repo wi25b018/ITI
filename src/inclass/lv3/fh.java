@@ -1,5 +1,7 @@
 package phase2level1.inclass;
 
+import inclass.lv3.student;
+
 public class fh {
     private student[] students = new student[10];
 

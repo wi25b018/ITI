@@ -1,4 +1,4 @@
-package phase2level1.inclass;
+package inclass.lv3;
 
 public class main {
 
