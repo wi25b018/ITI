@@ -16,6 +16,7 @@ public class person2 {
         setHeight(height);
     }
     public person2(person2 other){
+
         this(other.name, other.weight, other.height);
     }
 
@@ -27,12 +28,15 @@ public class person2 {
         return name;
     }
     public void setName(String name){
+
         this.name =name;
     }
     public double getWeight (){
+
         return weight;
     }
     public void setWeight(double weight){
+
         if (weight > 0){
             this.weight =weight;
         } else{
